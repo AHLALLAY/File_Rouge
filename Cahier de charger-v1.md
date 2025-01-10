@@ -1,4 +1,5 @@
-# **Déscription**
+># _**Système de gestion d'une école privée**_
+
 L'application web est une plateforme centralisée conçue pour simplifier et optimiser la gestion administrative, pédagogique et financière d'une école privée au Maroc, notamment pour les niveaux primaire et pré-primaire. Elle permet aux administrateurs, enseignants, parents et élèves d'interagir de manière efficace et transparente, tout en automatisant les tâches répétitives et en fournissant des outils de suivi et d'analyse.
 
 # **Problématique**
